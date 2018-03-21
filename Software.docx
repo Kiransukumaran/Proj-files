@@ -1,0 +1,40 @@
+﻿Developer Installations
+----------------------
+		OS
+-------------------------------------
+
+Linux( Ubuntu 15.04)
+
+		Text Editor
+--------------------------------------
+
+Install sublime
+
+		Server and Others
+--------------------------------------
+
+Set up LAMP
+
+		Designing Crawler
+--------------------------------------
+Install pip
+Add dependencies required
+Install scarpy using pip
+
+
+		Browser
+--------------------------------------
+Firefox
+Firefox Developer
+
+		Library
+--------------------------------------
+Beautiful Soup 4 (  pip install BeautifulSoup4  )
+graph ql  (  pip install graphene  )
+
+
+
+		Jinja(Templating language for python)
+
+pip install https://github.com/pallets/jinja/zipball/master
+

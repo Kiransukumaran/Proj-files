@@ -1,0 +1,39 @@
+News api link
+--------------
+
+https://newsapi.org/v2/everything?q='.$input.'&from=2017-12-30&to=2017-12-30&sortBy=popularity&apiKey=a094589fed0a4f029ddb3c4d264084c7
+
+
+Wikipedia
+---------------------
+https://en.wikipedia.org/w/api.php?action=query&titles=Content to be searched&prop=revisions&rvprop=content&format=json&formatversion=2
+
+
+Google location
+------------------
+http://maps.googleapis.com/maps/api/geocode/json?address=Place name
+
+
+Getty Images
+--------------
+https://api.gettyimages.com/v3/search/images?fields=id,title,thumb,referral_destinations&sort_order=best&phrase=your input
+sort_order=>best,most_popular,newest.
+
+
+Pipl 
+------------
+https://api.pipl.com/search/?email=sreenath.sasikumar%40gmail.com&key=2ce06d98h05oblf131zqdrxy
+
+
+full Contact
+-------------
+https://api.fullcontact.com/v2/person.json?email=sreenath.sasikumar@gmail.com&apiKey=3e2e89cf64ecf0bc
+
+
+
+
+
+
+
+
+
